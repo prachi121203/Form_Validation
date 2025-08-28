@@ -12,7 +12,7 @@ Built with VanillaJS this form has all the required validation to get an authent
 
 ## Live Link
 
-https://loginformvalidate.netlify.app/
+dynamic-starship-fe2e33.netlify.app
 
 
 ## Run Locally
