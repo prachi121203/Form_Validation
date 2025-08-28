@@ -2,18 +2,14 @@
 
 Built with VanillaJS this form has all the required validation to get an authenticated user.
 
-
 ## Tech Stack
 
 - HTML/CSS
 - Javascript
 
-
-
 ## Live Link
 
-dynamic-starship-fe2e33.netlify.app
-
+https://dynamic-starship-fe2e33.netlify.app
 
 ## Run Locally
 
